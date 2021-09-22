@@ -8,16 +8,17 @@
   },
   "dependencies": {
     "@volar/experimental": "latest",
+    "mitt": "^3.0.0",
     "sortablejs": "^1.14.0",
-    "vuedraggable": "^4.0.1",
-    "vue": "next"
+    "vue": "next",
+    "vuedraggable": "^4.0.1"
   },
   "devDependencies": {
+    "@types/sortablejs": "^1.10.7",
     "@vitejs/plugin-vue": "latest",
     "@vue/compiler-sfc": "latest",
-    "@types/sortablejs": "^1.10.7",
-    "typescript": "latest",
     "less": "^4.1.1",
+    "typescript": "latest",
     "vite": "latest",
     "vue-tsc": "latest"
   }
