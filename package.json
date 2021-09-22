@@ -1,6 +1,10 @@
 {
-  "name": "volar-starter",
-  "version": "0.0.0",
+  "name": "vue-query-builder-for-vue3",
+  "version": "0.1.0",
+  "author": {
+    "name": "CKS_OhKen",
+    "email": "hotcjfwj@gmail.com",
+  },
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
